@@ -1,0 +1,15 @@
+{
+  "name": "question3",
+  "version": "1.0.0",
+  "description": "Retrieving NAV by the fundcode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marutpong Chailangka",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "jsdom": "^17.0.0"
+  }
+}
